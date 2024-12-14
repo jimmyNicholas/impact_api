@@ -43,10 +43,10 @@ IMPACT_API provides:
 
 ### Phase 1: Core API Foundation
 - [x] Initial project setup
-- [ ] Authentication system implementation
-  - [ ] JWT authentication
-  - [ ] User roles (admin, teachers)
-  - [ ] Permission settings
+- [x] Authentication system implementation
+  - [x] JWT authentication
+  - [x] User roles (admin, teachers)
+  - [x] Permission settings
 - [ ] Core models development
   - [ ] Student model
   - [ ] Class model
