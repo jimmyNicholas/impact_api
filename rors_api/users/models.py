@@ -15,4 +15,4 @@ class User(AbstractUser):
         db_table = 'auth_user'
 
     def __str__(self):
-        return f"{self.get_full_name() ({self.role})}"
+        return f"{self.get_full_name()} ({self.role})"
