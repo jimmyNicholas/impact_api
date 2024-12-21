@@ -47,12 +47,12 @@ IMPACT_API provides:
   - [x] JWT authentication
   - [x] User roles (admin, teachers)
   - [x] Permission settings
-- [ ] Core models development
-  - [ ] Student model
-  - [ ] Class model
-  - [ ] Teacher model
-  - [ ] Test model
-  - [ ] Database relationships
+- [x] Core models development
+  - [x] Student model
+  - [x] Class model
+  - [x] Teacher model
+  - [x] Test model
+  - [x] Database relationships
 
 ### Phase 2: Assessment Features
 - [ ] Grade calculation system
